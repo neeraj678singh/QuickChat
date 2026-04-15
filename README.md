@@ -1,7 +1,6 @@
 # QuickChat
 My first full-stack MERN project. A real-time chat application with modern UI, built using MERN stack + Socket.io.
 </br>
-<a href="https://quick-chat-app-steel.vercel.app/login"> WEBSITE🚀</a>
 </br>
 
 
